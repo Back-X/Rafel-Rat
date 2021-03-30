@@ -32,7 +32,7 @@
 - [X] Ransomware
 ---
 ### To do 
--Block Incoming Calls
+Block Incoming Calls
 
 ---
 
