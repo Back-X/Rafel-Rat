@@ -31,6 +31,10 @@
 - [X] Change Wallpaper
 - [X] Ransomware
 ---
+### To do 
+-Block Incoming Calls
+
+---
 
 ### Prerequisites 
  - Android Studio
