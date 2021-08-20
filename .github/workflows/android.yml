@@ -6,9 +6,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       
-    - name: Build Release apk
+    - name: Build
       run: cmd /c build.bat
-
+      
+    - name: Sign
+      run: cmd /c sign.bat
+      
     - name: Upload APK
       uses: actions/upload-artifact@v2
       with:
